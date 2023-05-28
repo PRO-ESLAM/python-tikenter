@@ -1,0 +1,16 @@
+	 	 	 Welcome  
+ Bill Number:1064
+ Customer Name:  
+ Phone Number:  
+ Customer Email: 
+==================================================
+ Products			QTY		Price
+==================================================
+ LifeBuy		0		0
+ Santoor		1		20
+ Santoor		1		20
+==================================================
+Sub Amount:			LE.40.00
+ Tax Amount:			LE.0.20
+ Total Amount:			LE.40.20
+==================================================

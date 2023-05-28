@@ -1,0 +1,15 @@
+	 	 	 Welcome  
+ Bill Number:6088
+ Customer Name:  
+ Phone Number: 0 
+ Customer Email: 
+==================================================
+ Products			QTY		Price
+==================================================
+ Samsung UR		1		1700
+ Samsung UR		1		1700
+==================================================
+Sub Amount:			LE.3400.00
+ Tax Amount:			LE.17.00
+ Total Amount:			LE.3417.00
+==================================================

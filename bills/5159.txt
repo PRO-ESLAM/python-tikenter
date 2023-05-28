@@ -1,0 +1,15 @@
+	 	 	 Welcome  
+ Bill Number:5159
+ Customer Name:  
+ Phone Number:  
+ Customer Email: 
+==================================================
+ Products			QTY		Price
+==================================================
+  Optix MAG		1		5000
+ Optix MAG342		1		7000
+==================================================
+Sub Amount:			LE.12000.00
+ Tax Amount:			LE.50.00
+ Total Amount:			LE.12050.00
+==================================================

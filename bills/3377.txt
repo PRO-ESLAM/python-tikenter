@@ -1,0 +1,16 @@
+	 	 	 Welcome  
+ Bill Number:3377
+ Customer Name:  
+ Phone Number:  
+ Customer Email: 
+==================================================
+ Products			QTY		Price
+==================================================
+ LG Ergo		0		0
+ LG UltraWide		1		2700
+ Samsung UR		1		1700
+==================================================
+Sub Amount:			LE.4400.00
+ Tax Amount:			LE.27.00
+ Total Amount:			LE.4427.00
+==================================================

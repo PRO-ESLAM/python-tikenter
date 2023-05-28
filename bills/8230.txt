@@ -1,0 +1,15 @@
+	 	 	 Welcome  
+ Bill Number:8230
+ Customer Name:  
+ Phone Number: 0 
+ Customer Email: 
+==================================================
+ Products			QTY		Price
+==================================================
+ Odyssey		1		1500
+ Samsung S		1		1800
+==================================================
+Sub Amount:			LE.3300.00
+ Tax Amount:			LE.15.00
+ Total Amount:			LE.3315.00
+==================================================
